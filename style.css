@@ -1,0 +1,26 @@
+div{
+    margin: 20px;
+}
+.button-1{
+    color: rgb(79, 179, 145);
+    border: 2px solid rgb(79, 179, 145);
+    background-color: whitesmoke;
+    border-radius: 40px;
+    padding: 5px 30px;
+}
+.button-2{
+    color: white;
+    background-color: rgb(86, 199, 161);
+    border-radius: 50%;
+    border-style: none;
+    height: 35px;
+    width: 35px;
+    font-size:30px;
+    padding-bottom: 30px;
+}
+.button-3{
+    color: whitesmoke;
+    background-color: rgb(65, 65, 231);
+    border: 1px solid black;
+    box-shadow: 2px 2px 1px black;
+}
